@@ -1,0 +1,144 @@
+MZ?        ?      @                                      ? ???L?This program cannot be run in DOS mode.
+
+$       PE  L 縸渵        ?           ~=       @    @                                 @?                          0=  K    @                     `     ?                                                               H           .text   ?                           `.rsrc      @                     @  @.reloc      `      &              @  B                `=      H     #  ?                                                       0 ?    r  p(  
+~  ~  r  p(  
+r!  p(  
+r?  p(  
+(  
+(  ,
+rI  p(  
+?
+o  
+(  
+?rW  p(  &r? p(  &rM p(  &(  
+o  
+r> p(  
+1"Y+?  
+,?  
+Y0箵
+	o  
+(  
+??&?*   (    
+ DN     } @?      迋   0 ?    
+~  (  
+-rJ p(  
+煝rV p~  rp p(  
+s  
+r! p
+o  
+-%o  
+	s   
+o!  
+&?,o"  
+嗍
+,o"  
+?
+?o  
+(  
+?**   (   V 
+`      9 5n 
+       z|   0 ?    
+~  (  
+-rJ p(  
+煒rV p~  rp p(  
+s  
+
+o  
+-%o  
+	s   
+o!  
+&?,o"  
+嗍
+,o"  
+?
+?o  
+(  
+?**   (   R 
+\      9 1j 
+       vx   j(  
+o  
+r? p(#  
+  *($  
+* BSJB         v2.0.50727     l     #~  ?  ?  #Strings      ?  #US 4     #GUID   D  ?  #Blob         W 	    ?3                     $      
+              
+       8 1  ?? ?? ?? ?? 
+? #? >? Y? ?r ?r ?? ?? ??;    ? _ }1  ?1  ?1  ?? ?1  ?1  ? #?
+ eS
+ ?u
+ ?G
+ ?S
+ ?u ?1                    Q? 
+ QH 
+ QU 
+ Q\ 
+  j 
+ P     ?e q  X!    ?u w   "    ?u {  "    ?}   ?    ???    ?   ? } ? } ?! } ?) } ?1 } ?9 } ?A } ?I } ?Q } ?Y } ?a } ?i } ?q } ??} ??}  ???????????????????????????0??9{ ?@?????} ?????? ?} ?????? ???	 }    
+      M   P .  .  .  . # . + . 3 #. ; . K . S B. c l. k y. s ?. { ???                              (                 G         <Module> ClearPig.exe Program ClearPig mscorlib System Object FileName ProviderName UserId Password Main DataSource CheckDB .ctor args SQL System.Reflection AssemblyTitleAttribute AssemblyDescriptionAttribute AssemblyConfigurationAttribute AssemblyCompanyAttribute AssemblyProductAttribute AssemblyCopyrightAttribute AssemblyTrademarkAttribute AssemblyCultureAttribute System.Runtime.InteropServices ComVisibleAttribute GuidAttribute AssemblyVersionAttribute AssemblyFileVersionAttribute System.Diagnostics DebuggableAttribute DebuggingModes System.Runtime.CompilerServices CompilationRelaxationsAttribute RuntimeCompatibilityAttribute Console set_Title DateTime get_Now ToString String Concat System.IO File Copy WriteLine Exception get_Message AppDomain get_CurrentDomain get_BaseDirectory Directory SearchOption GetFiles Exists Delete System.Data System.Data.OleDb OleDbConnection System.Data.Common DbConnection ConnectionState get_State Open OleDbCommand DbCommand ExecuteNonQuery IDisposable Dispose .cctor    
+跋緙薂ckz_. 跋緙薂ckz_. y y y y M M d d H H m m s s  	. b a k  
+瀧U?tb0C R E A T E   T A B L E   ` B l o o d `   ( 
+ 
+ 	                                                                                 ` I D `   L o n g   N O T   N U L L   I D E N T I T Y   P R I M A R Y   K E Y ,   
+ 
+ 	                                                                                 ` C h e c k e d D a t e `   V a r C h a r ( 2 5 4 )   N O T   N U L L ,   
+ 
+ 	                                                                                 ` K i l l L i n e `   V a r C h a r ( 2 5 4 )   N O T   N U L L ,   
+ 
+ 	                                                                                 ` A f t e r W e i g h t `   D o u b l e   N O T   N U L L   D E F A U L T   0 ,   
+ 
+ 	                                                                                 ` B l o o d F o o d `   D o u b l e   N O T   N U L L   D E F A U L T   0 ,   
+ 
+ 	                                                                                 ` B l o o d D r o p `   D o u b l e   N O T   N U L L   D E F A U L T   0 ,   
+ 
+ 	                                                                                 ` U p d a t e d U s e r I D `   V a r C h a r ( 2 5 4 ) ,   
+ 
+ 	                                                                                 ` I s U p l o a d `   V a r C h a r ( 2 5 4 )   N O T   N U L L   D E F A U L T   ' &T' ,   
+ 
+ 	                                                                                 ` U p d a t e d D o c t o r N o `   V a r C h a r ( 2 5 4 ) ,   
+ 
+ 	                                                                                 ` U p d a t e d D o c t o r N a m e `   V a r C h a r ( 2 5 4 ) ,   
+ 
+ 	                                                                                 ` L o g i n D e l `   B i t   N O T   N U L L   D E F A U L T   0 ,   
+ 
+ 	                                                                                 ` M o d i f i e d D a t e `   D a t e T i m e   D E F A U L T   n o w ,   
+ 
+ 	                                                                                 ` U p l o a d e d D a t e `   D a t e T i m e   D E F A U L T   n o w ,   
+ 
+ 	                                                                                 ` A n i m a l N o `   V a r C h a r ( 2 5 4 ) ,   
+ 
+ 	                                                                                 ` A n i m a l N a m e `   V a r C h a r ( 2 5 4 ) ,   
+ 
+ 	                                                                                 ` A n i m a l Z o n e `   V a r C h a r ( 2 5 4 ) 
+ 
+                                                                                 ) ; C R E A T E   T A B L E   ` K i l l L i n e `   ( 
+ 
+ 	                                                         ` B u t c h L i n e N o `   L o n g ,   
+ 
+ 	                                                         ` B u t c h H o u r l y A m o u n t `   L o n g ,   
+ 
+ 	                                                         ` P o u N o `   V a r C h a r ( 1 0 ) 
+ 
+                                                         ) ;  C R E A T E   T A B L E   ` M o n t h s `   ( 
+ 
+ 	                                                         ` i d `   L o n g   N O T   N U L L   D E F A U L T   0   P R I M A R Y   K E Y ,   
+ 
+ 	                                                         ` M o n t h `   V a r C h a r ( 5 0 )   W I T H   C O M P ,   
+ 
+ 	                                                         ` N O `   V a r C h a r ( 1 0 )   W I T H   C O M P 
+ 
+                                                         ) ;  * . b a k  Hh
+NX[(WD a t a   S o u r c e =  ? P r o v i d e r = M i c r o s o f t . J e t . O L E D B . 4 . 0 ; U s e r   I d = ; J e t   O L E D B : D a t a b a s e   P a s s w o r d = 2 0 n 6 J Y 8 1 x Y 9 Q U v s ;  d e l e t e   f r o m   L o c a l T t o i r   w h e r e   a n i m a l t y p e = ' l?   a n d   f a r m n o   < >   ' % % ' ; \ p t s . m d b   !Z倇+柝F滲C?4 暘\V4?p t s . m d b 0M i c r o s o f t . J e t . O L E D B . 4 . 0 ; ;  2 0 n 6 J Y 8 1 x Y 9 Q U v s ;          =    M       ] eYYM   q i  iuY   
+ ClearPig       Toshiba   Copyright 穢 Toshiba 2015  ) $6184ec75-aa20-4897-9400-e10c7bbcd517   1.0.0.0                TWrapNonExceptionThrows      縸渵         <    RSDSk.?挑?I掄?0
+   d:\(1)撠?\?脫炎撅\SVN_摰嗥??Ｙ?蝔???啁?_Wayne\摰嗥?蝳賬偷?圈ClickOnce?20110916_???臭誑?澆?\ClearPig\ClearPig\obj\Release\ClearPig.pdb                                                                                               X=          n=                          `=        _CorExeMain mscoree.dll     %  @                                                                                                                                                     8                    P                    h                                           ?    ?            ?          ?4   V S _ V E R S I O N _ I N F O     ?獶                 ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       ?P   S t r i n g F i l e I n f o   ,   0 0 0 0 0 4 b 0   0   C o m p a n y N a m e     T o s h i b a   < 	  F i l e D e s c r i p t i o n     C l e a r P i g     0   F i l e V e r s i o n     1 . 0 . 0 . 0   < 
+  I n t e r n a l N a m e   C l e a r P i g . e x e     X   L e g a l C o p y r i g h t   C o p y r i g h t   ?  T o s h i b a   2 0 1 5     D 
+  O r i g i n a l F i l e n a m e   C l e a r P i g . e x e     4 	  P r o d u c t N a m e     C l e a r P i g     4   P r o d u c t V e r s i o n   1 . 0 . 0 . 0   8   A s s e m b l y   V e r s i o n   1 . 0 . 0 . 0   嚜??xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+                                                                                                                                       0     =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
